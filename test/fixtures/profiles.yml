@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  client_id: 
+  hobbies: MyString
+  text: MyString
+  profile_pic: MyString
+
+two:
+  client_id: 
+  hobbies: MyString
+  text: MyString
+  profile_pic: MyString
